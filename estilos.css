@@ -78,7 +78,7 @@ body{
 .main{
     .sectionPrincipal{
         color:white;
-        background:linear-gradient(to right top, #0000008a, #0000008a), url(banner-bg.jpg);
+        background:linear-gradient(to right top, #0000008a, #0000008a), url(banner-bg.avif);
         background-size: cover;
         background-position: center;
         height: 90vh;
